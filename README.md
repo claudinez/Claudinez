@@ -1,13 +1,12 @@
 ## Olá, eu sou Claudinez Andrade ! 👋
 
-Um profissional de Tecnologia da Informação apaixonado por resolver problemas, otimizar processos e que agora está direcionando sua carreira para o universo da **Ciência de Dados**.
+Sou um profissional de Tecnologia da Informação apaixonado por resolver problemas, otimizar processos e que agora está direcionando sua carreira para o universo da **Ciência de Dados**.
 
 Com uma base sólida em suporte técnico e gestão de sistemas, desenvolvi uma grande capacidade analítica. Agora, estou aplicando essa experiência na coleta, processamento e análise de dados para gerar insights estratégicos.
 
 ### O que eu faço
 
 *   **Análise e Visualização de Dados:** Utilizo Python e SQL para explorar datasets, identificar padrões e comunicar descobertas através de visualizações.
-*   **Cloud Computing:** Possuo certificações em AWS e Azure, e estou preparado para trabalhar em projetos de dados em ambientes de nuvem.
 *   **Automação e Otimização:** Tenho experiência com RPA e IA, buscando sempre a forma mais eficiente de realizar tarefas.
 
 ### Meu Objetivo
